@@ -191,3 +191,6 @@ I offer commercial support, this software is depended on by network security, ae
 [license-shield]: https://img.shields.io/github/license/dgtlmoon/changedetection.io.svg?style=for-the-badge
 [release-link]: https://github.com/dgtlmoon.com/changedetection.io/releases
 [docker-link]: https://hub.docker.com/r/dgtlmoon/changedetection.io
+
+
+## checking
