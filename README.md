@@ -193,4 +193,3 @@ I offer commercial support, this software is depended on by network security, ae
 [docker-link]: https://hub.docker.com/r/dgtlmoon/changedetection.io
 
 
-## checking
