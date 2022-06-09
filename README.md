@@ -1,9 +1,7 @@
 #  changedetection.io
 
 
-asddadsdafjoijoqjjqweqjwe
-qebwq
-qwenqwjneqe
+asddadsdafjoijoqjjq
 ;wqebwqeiwq
 [![Release Version][release-shield]][release-link] [![Docker Pulls][docker-pulls]][docker-link] [![License][license-shield]](LICENSE.md)
 
