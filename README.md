@@ -1,8 +1,5 @@
 #  changedetection.io
 
-##Test it last time
-
-Testing for checking the other cases as well
 
 ## testing on production server
 [![Release Version][release-shield]][release-link] [![Docker Pulls][docker-pulls]][docker-link] [![License][license-shield]](LICENSE.md)
