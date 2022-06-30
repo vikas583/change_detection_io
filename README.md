@@ -1,6 +1,5 @@
 #  changedetection.io
 
-##Testing
 
 
 [![Release Version][release-shield]][release-link] [![Docker Pulls][docker-pulls]][docker-link] [![License][license-shield]](LICENSE.md)
