@@ -1,6 +1,6 @@
 #  changedetection.io
 
-# test for screenshot and embed, re test, re test
+# test for screenshot 
 
 [![Release Version][release-shield]][release-link] [![Docker Pulls][docker-pulls]][docker-link] [![License][license-shield]](LICENSE.md)
 
